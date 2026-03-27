@@ -57,6 +57,7 @@ fullstack-blog-project/
 cd blog_frontend
 npm install
 npm run dev   # or npm start if CRA
+```
 
 cd blogcms
 ./mvnw spring-boot:run   # or use IntelliJ to run the main class
