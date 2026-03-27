@@ -67,7 +67,7 @@ spring.application.name=blogcms
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/blogcms
 spring.datasource.username=postgres
-spring.datasource.password=1740
+spring.datasource.password=xxxx
 spring.datasource.driver-class-name=org.postgresql.Driver
 
 spring.jpa.hibernate.ddl-auto=update
